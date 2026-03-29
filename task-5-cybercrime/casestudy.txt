@@ -1,0 +1,7 @@
+UPI / Online Payment Fraud
+
+A common type of cybercrime in India is UPI and online payment fraud. In this type of fraud, attackers trick users into sharing sensitive information such as OTPs, UPI PINs, or by clicking malicious links. For example, a college student receives a message claiming that they have won a reward and are asked to enter their UPI details to claim it. Once the victim enters their details, the attacker gains access and transfers money from their account.
+
+These frauds usually occur through phishing links, fake calls, or messages pretending to be from banks or trusted services. Students and individuals who are not fully aware of digital security practices are often targeted. The consequences include financial loss, stress, and misuse of personal data.
+
+Such incidents highlight the importance of being cautious while making online transactions and verifying the authenticity of any request before sharing sensitive information.
